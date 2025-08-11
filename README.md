@@ -41,7 +41,13 @@ Perform Exploratory Data Analysis (EDA) on the Titanic dataset to extract insigh
 
 ## 📂 Deliverables
 - **Elevate_Labs_Day5.ipynb** — Complete EDA notebook with visuals & observations  
-- **_Elevate_Labs_Day5.pdf** — PDF export for submission  
+- **_Elevate_Labs_Day5.pdf** — PDF export for submission
+
+## 📅Dataset
+-🔗 https://www.kaggle.com/competitions/titanic
+
+## LinkedIn
+-🔗 www.linkedin.com/in/vaibhav-saloora-25a3562b2
 
 ## Author 
 **SALOORA VAIBHAV**
